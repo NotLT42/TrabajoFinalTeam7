@@ -1,0 +1,11 @@
+1|1|Estudiar Fisica 1|ema Leyes de Newton|3|5|2022|13|5|2022|Media|32759|3
+2|1|Clase|ate Discreta|2|2|2020|3|2|2020|alta|0|1
+3|4|Parque amazonico|isita de estudio|25|4|2020|30|4|2020|baja|4|3
+4|5|Partido de futbol|Comprar entradas de partido|1|5|2022|1|5|2022|lta|-1|0
+5|5|Atardecer |er el atardecer|6|5|2022|20|5|2022|aja|13|3
+2|5|Hola Mundo|ue tal como estan|3|5|2022|3|5|2022|lta|0|1
+2|5|sdfasdf|sdfasdf|20|5|2022|15|6|2022|lta|26|3
+2|5|asdfasdfasd|sdfasdfasf|5|5|2022|10|9|2022|lta|128|3
+9|6|Salir a pasear al perro|alir al parque con el perro|3|5|2022|3|5|2022|aja|0|1
+10|6|Estudiar|reparase para el examen de fisica 1|3|5|2022|10|5|2022|lta|7|3
+11|7|Trabajo final|ntrega de TF de Algoritmos|18|6|2022|19|6|2022|lta|1|2

@@ -1,0 +1,12 @@
+﻿  Source.cpp
+C:\Users\YASPER\source\repos\TF_actualizado\TF_actualizado\controller.h(18,2): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+C:\Users\YASPER\source\repos\TF_actualizado\TF_actualizado\Source.cpp(11,12): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+C:\Users\YASPER\source\repos\TF_actualizado\TF_actualizado\Hash_Table.h(43,21): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\YASPER\source\repos\TF_actualizado\TF_actualizado\Hash_Table.h(40): message : al compilar la función del miembro clase plantilla "int HashTable<FastNotes>::hashFunction(std::string)"
+C:\Users\YASPER\source\repos\TF_actualizado\TF_actualizado\Hash_Table.h(52): message : Vea la referencia a la creación de una instancia de la función plantilla "int HashTable<FastNotes>::hashFunction(std::string)" que se está compilando
+C:\Users\YASPER\source\repos\TF_actualizado\TF_actualizado\Models.h(17): message : Vea la referencia a la creación de una instancia de clase plantilla "HashTable<FastNotes>" que se está compilando
+C:\Users\YASPER\source\repos\TF_actualizado\TF_actualizado\controller.h(59): warning C4715: 'Cant_diasRestantes': no todas las rutas de acceso de control devuelven un valor
+C:\Users\YASPER\source\repos\TF_actualizado\TF_actualizado\controller.h(72): warning C4715: 'Valor_urgencia': no todas las rutas de acceso de control devuelven un valor
+C:\Users\YASPER\source\repos\TF_actualizado\TF_actualizado\Arboles.h(122): warning C4715: 'BST<Planes>::IndiceProcces': no todas las rutas de acceso de control devuelven un valor
+  FastNotes.obj : se encontró un módulo MSIL; vinculación incremental deshabilitada para MSIL; ejecutando vínculo completo
+  TF_actualizado.vcxproj -> C:\Users\YASPER\source\repos\TF_actualizado\Debug\TF_actualizado.exe

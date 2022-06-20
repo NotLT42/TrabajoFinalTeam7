@@ -1,0 +1,27 @@
+﻿  FastNotes.cpp
+  Notes.cpp
+  Planes.cpp
+  Source.cpp
+D:\Visual Studio Trabajos\TF_Actualizado\TF_actualizado\Models.h(38,45): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+D:\Visual Studio Trabajos\TF_Actualizado\TF_actualizado\Models.h(57,35): warning C4267: '=': conversión de 'size_t' a 'int'; posible pérdida de datos
+D:\Visual Studio Trabajos\TF_Actualizado\TF_actualizado\Models.h(58,38): warning C4267: '=': conversión de 'size_t' a 'int'; posible pérdida de datos
+D:\Visual Studio Trabajos\TF_Actualizado\TF_actualizado\Models.h(107,34): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+D:\Visual Studio Trabajos\TF_Actualizado\TF_actualizado\Models.h(162,35): warning C4267: '=': conversión de 'size_t' a 'int'; posible pérdida de datos
+D:\Visual Studio Trabajos\TF_Actualizado\TF_actualizado\Models.h(163,38): warning C4267: '=': conversión de 'size_t' a 'int'; posible pérdida de datos
+D:\Visual Studio Trabajos\TF_Actualizado\TF_actualizado\Models.h(213,34): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+D:\Visual Studio Trabajos\TF_Actualizado\TF_actualizado\Models.h(244,35): warning C4267: '=': conversión de 'size_t' a 'int'; posible pérdida de datos
+D:\Visual Studio Trabajos\TF_Actualizado\TF_actualizado\Models.h(245,38): warning C4267: '=': conversión de 'size_t' a 'int'; posible pérdida de datos
+D:\Visual Studio Trabajos\TF_Actualizado\TF_actualizado\Models.h(290,34): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+D:\Visual Studio Trabajos\TF_Actualizado\TF_actualizado\Models.h(304,35): warning C4267: '=': conversión de 'size_t' a 'int'; posible pérdida de datos
+D:\Visual Studio Trabajos\TF_Actualizado\TF_actualizado\Models.h(305,38): warning C4267: '=': conversión de 'size_t' a 'int'; posible pérdida de datos
+D:\Visual Studio Trabajos\TF_Actualizado\TF_actualizado\controller.h(18,2): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+D:\Visual Studio Trabajos\TF_Actualizado\TF_actualizado\controller.h(469,2): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+D:\Visual Studio Trabajos\TF_Actualizado\TF_actualizado\Source.cpp(11,12): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+  User.cpp
+  .NETFramework,Version=v4.6.1.AssemblyAttributes.cpp
+  Generando código...
+D:\Visual Studio Trabajos\TF_Actualizado\TF_actualizado\controller.h(59): warning C4715: 'Cant_diasRestantes': no todas las rutas de acceso de control devuelven un valor
+D:\Visual Studio Trabajos\TF_Actualizado\TF_actualizado\controller.h(72): warning C4715: 'Valor_urgencia': no todas las rutas de acceso de control devuelven un valor
+D:\Visual Studio Trabajos\TF_Actualizado\TF_actualizado\Arboles.h(122): warning C4715: 'BST<Planes>::IndiceProcces': no todas las rutas de acceso de control devuelven un valor
+  FastNotes.obj : se encontró un módulo MSIL; vinculación incremental deshabilitada para MSIL; ejecutando vínculo completo
+  TF_actualizado.vcxproj -> D:\Visual Studio Trabajos\TF_Actualizado\x64\Debug\TF_actualizado.exe
